@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Some emojis:
+* :penguin:
+* :volcano:
+* :space_invader:
